@@ -4,10 +4,10 @@
 
 ##  🍎 Algorithm_Study 활동요약
 
-| Day | 세미나 | 과제 |커리큘럼 내용 |
+| Day | 과제 | 코드리뷰 |커리큘럼 내용 |
 | ------ | -- | -- |----------- |
-| 1주차 | ☑️ | ☑️ | iOS 기초, H.I.G를 통한 컴포넌트의 이해, 화면 전환 |
-| 2주차 | ☑️ | ☑️ | Autolayout을 통한 기초 UI구성, Scroll View의 이해 |
+| 01/26 | ☑️ | ☑️ | iOS 기초, H.I.G를 통한 컴포넌트의 이해, 화면 전환 |
+| 01/28 | ☑️ | ☑️ | Autolayout을 통한 기초 UI구성, Scroll View의 이해 |
 | 3주차 | ☑️ | ☑️ | TableView, CollectionView, 데이터 전달 방식 |
 | 4주차 | ☑️ | ☑️ | Cocoapods & Networking + 솝커톤 전 보충 세미나 |
 | 5주차 |  |  |디자인 합동 세미나 |
