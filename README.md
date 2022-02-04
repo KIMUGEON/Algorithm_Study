@@ -5,6 +5,14 @@
 | -- | -- | -- |
 | Tue | Silver3 이상| 3 |
 | Fri | Bronze1 이상| 3 |
+
+| Name | Tier |
+| -- | -- |
+|KyoungHo| [![Solved.ac Profile](http://mazassumnida.wtf/api/mini/generate_badge?boj=rudgh46)](https://solved.ac/rudgh46)|
+|YoungSeo| [![Solved.ac Profile](http://mazassumnida.wtf/api/mini/generate_badge?boj=dudtjakdl)](https://solved.ac/dudtjakdl)|
+|UGeon| [![Solved.ac Profile](http://mazassumnida.wtf/api/mini/generate_badge?boj=dnrjs8185)](https://solved.ac/dnrjs8185)|
+|YuWan| [![Solved.ac Profile](http://mazassumnida.wtf/api/mini/generate_badge?boj=kmhj)](https://solved.ac/kmhj)|
+
 # 💫 Goal
 ###    - 백준 골드1🥇 티어 이상 달성 
 ###    - IM 테스트 통과
@@ -22,11 +30,4 @@
 | 7주차 |  |  |  |
 | 8주차 |  |  |  |
 
-| Name | Tier |
-| -- | -- |
-|KyoungHo| [![Solved.ac Profile](http://mazassumnida.wtf/api/mini/generate_badge?boj=rudgh46)](https://solved.ac/rudgh46)|
-|YoungSeo| [![Solved.ac Profile](http://mazassumnida.wtf/api/mini/generate_badge?boj=dudtjakdl)](https://solved.ac/dudtjakdl)|
-|UGeon| [![Solved.ac Profile](http://mazassumnida.wtf/api/mini/generate_badge?boj=dnrjs8185)](https://solved.ac/dnrjs8185)|
-|YuWan| [![Solved.ac Profile](http://mazassumnida.wtf/api/mini/generate_badge?boj=kmhj)](https://solved.ac/kmhj)|
 
-   
