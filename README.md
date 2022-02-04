@@ -24,9 +24,9 @@
 
 | Name | Tier |
 | -- | -- |
-|KyoungHO| [![Solved.ac Profile](http://mazassumnida.wtf/api/mini/generate_badge?boj=rudgh46)](https://solved.ac/rudgh46)|
+|KyoungHo| [![Solved.ac Profile](http://mazassumnida.wtf/api/mini/generate_badge?boj=rudgh46)](https://solved.ac/rudgh46)|
 |YoungSeo| [![Solved.ac Profile](http://mazassumnida.wtf/api/mini/generate_badge?boj=dudtjakdl)](https://solved.ac/dudtjakdl)|
 |UGeon| [![Solved.ac Profile](http://mazassumnida.wtf/api/mini/generate_badge?boj=dnrjs8185)](https://solved.ac/dnrjs8185)|
-|UYan| [![Solved.ac Profile](http://mazassumnida.wtf/api/mini/generate_badge?boj=kmhj)](https://solved.ac/kmhj)|
+|YuWan| [![Solved.ac Profile](http://mazassumnida.wtf/api/mini/generate_badge?boj=kmhj)](https://solved.ac/kmhj)|
 
    
