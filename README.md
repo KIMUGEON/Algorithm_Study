@@ -12,7 +12,7 @@
 #  
 ## 💫 Info
 | Name | KyoungHo | SeJin | YoungSeo | UGeon | YuWan | JunWoo |
-| ---- | -------- | ----- | -------- |------ | ----- | ------ |
+| Tier | -------- | ----- | -------- |------ | ----- | ------ |
 ||[![Solved.ac Profile](http://mazassumnida.wtf/api/mini/generate_badge?boj=rudgh46)](https://solved.ac/rudgh46)|[![Solved.ac Profile](http://mazassumnida.wtf/api/mini/generate_badge?boj=kimsezin)](https://solved.ac/kimsezin)|[![Solved.ac Profile](http://mazassumnida.wtf/api/mini/generate_badge?boj=dudtjakdl)](https://solved.ac/dudtjakdl)|[![Solved.ac Profile](http://mazassumnida.wtf/api/mini/generate_badge?boj=dnrjs8185)](https://solved.ac/dnrjs8185)|[![Solved.ac Profile](http://mazassumnida.wtf/api/mini/generate_badge?boj=kmhj)](https://solved.ac/kmhj)| |
 #
 ## ![Java](https://img.shields.io/badge/Java-007396.svg?&style=for-the-badge&logo=Java&logoColor=white) Algorithm_Study 활동요약 ☑️
