@@ -11,7 +11,7 @@
 #####    - IM 테스트 통과
 #  
 ## 💫 Info
-| Name | Tier | | |
+| Name | Tier | Name | Tier |
 | -- | -- | -- | -- |
 |KyoungHo| [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=rudgh46)](https://solved.ac/rudgh46)|SeJin| [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=kimsezin)](https://solved.ac/kimsezin)|
 |YoungSeo| [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=dudtjakdl)](https://solved.ac/dudtjakdl)|UGeon| [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=dnrjs8185)](https://solved.ac/dnrjs8185)|
