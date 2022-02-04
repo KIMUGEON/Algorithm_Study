@@ -1,6 +1,8 @@
 # Algorithm_Study
-### 매주 화요일/금요일 알고리즘 스터디 진행
-### 백준 골드1 이상 티어 달기
+# ⭐Info
+### 매주 화요일/금요일 스터디 진행
+# ⭐Goal
+### 백준 골드1 이상 티어 달성
 
 ##  ![Java](https://img.shields.io/badge/Java-007396.svg?&style=for-the-badge&logo=Java&logoColor=white) Algorithm_Study 활동요약
 
