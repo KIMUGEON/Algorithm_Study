@@ -4,15 +4,15 @@
 
 ##  🍎 Algorithm_Study 활동요약
 
-| Day | 과제 | 코드리뷰 |커리큘럼 내용 |
+| Week\Day | Tue | Fri |스터디 내용 |
 | ------ | -- | -- |----------- |
-| 01/26 | ☑️ | ☑️ | iOS 기초, H.I.G를 통한 컴포넌트의 이해, 화면 전환 |
-| 01/28 | ☑️ | ☑️ | Autolayout을 통한 기초 UI구성, Scroll View의 이해 |
-| 3주차 | ☑️ | ☑️ | TableView, CollectionView, 데이터 전달 방식 |
-| 4주차 | ☑️ | ☑️ | Cocoapods & Networking + 솝커톤 전 보충 세미나 |
-| 5주차 |  |  |디자인 합동 세미나 |
-| 6주차 |  |  |서버 합동 세미나 + 솝커톤  |
-| 7주차 |  |  |클론 코딩을 통한 실전 UI 구성, Animation, 통신 보충  |
-| 8주차 |  |  |e기획 경선 + 앱잼 전 보충 세미나 + 앱스토어 배포 가이드  |
+| 1주차 | ☑️ | ☑️ | 백준 알고리즘 #2798(블랙잭) #2231(분해합) 코드 리뷰 및 향후 스터디 계획 회의 |
+| 2주차 | 연휴 | ☑️ | 백준 알고리즘 #7568(덩치) #1018(체스판 다시 칠하기) #1436(영화감독 숌) 코드 리뷰 |
+| 3주차 |  |  |  |
+| 4주차 |  |  |  |
+| 5주차 |  |  |  |
+| 6주차 |  |  |  |
+| 7주차 |  |  |  |
+| 8주차 |  |  |  |
 
-[![Solved.ac Profile](http://mazassumnida.wtf/api/mini/generate_badge?boj=dnrjs8185)](https://solved.ac/dnrjs8185)
+#####[![Solved.ac Profile](http://mazassumnida.wtf/api/mini/generate_badge?boj=dnrjs8185)](https://solved.ac/dnrjs8185)
