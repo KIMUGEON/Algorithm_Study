@@ -6,6 +6,7 @@
 | Tue | Silver3 이상| 3 |
 | Fri | Bronze1 이상| 3 |
 
+
 | Name | Tier |
 | -- | -- |
 |KyoungHo| [![Solved.ac Profile](http://mazassumnida.wtf/api/mini/generate_badge?boj=rudgh46)](https://solved.ac/rudgh46)|
