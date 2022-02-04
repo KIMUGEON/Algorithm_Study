@@ -13,11 +13,11 @@
 ## 💫 Info
 | Name | Tier |
 | -- | -- |
-|KyoungHo| [![Solved.ac Profile](http://mazassumnida.wtf/api/mini/generate_badge?boj=rudgh46)](https://solved.ac/rudgh46)|
-|SeJin| [![Solved.ac Profile](http://mazassumnida.wtf/api/mini/generate_badge?boj=kimsezin)](https://solved.ac/kimsezin)|
-|YoungSeo| [![Solved.ac Profile](http://mazassumnida.wtf/api/mini/generate_badge?boj=dudtjakdl)](https://solved.ac/dudtjakdl)|
-|UGeon| [![Solved.ac Profile](http://mazassumnida.wtf/api/mini/generate_badge?boj=dnrjs8185)](https://solved.ac/dnrjs8185)|
-|YuWan| [![Solved.ac Profile](http://mazassumnida.wtf/api/mini/generate_badge?boj=kmhj)](https://solved.ac/kmhj)|
+|KyoungHo| [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=rudgh46)](https://solved.ac/rudgh46)|
+|SeJin| [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=kimsezin)](https://solved.ac/kimsezin)|
+|YoungSeo| [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=dudtjakdl)](https://solved.ac/dudtjakdl)|
+|UGeon| [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=dnrjs8185)](https://solved.ac/dnrjs8185)|
+|YuWan| [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=kmhj)](https://solved.ac/kmhj)|
 #
 ## ![Java](https://img.shields.io/badge/Java-007396.svg?&style=for-the-badge&logo=Java&logoColor=white) Algorithm_Study 활동요약 ☑️
 | Day | Source | Title |스터디 내용 |
