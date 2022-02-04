@@ -2,7 +2,7 @@
 # 💫Info
 ### 매주 화요일/금요일 스터디 진행
 # 💫Goal
-### 백준 골드1 이상 티어 달성 🥇
+### 백준 골드1🥇 티어 이상 달성 & IM 테스트 통과
 
 ##  ![Java](https://img.shields.io/badge/Java-007396.svg?&style=for-the-badge&logo=Java&logoColor=white) Algorithm_Study 활동요약
 
