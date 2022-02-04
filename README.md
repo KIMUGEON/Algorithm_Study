@@ -1,10 +1,10 @@
 # Algorithm_Study
 # 💫 Info
 ###    - 매주 화요일/금요일 스터디 진행
-| Day | 난이도 | 문제 수 |
+| Day | Level | 문제 수 |
 | -- | -- | -- |
-| 화 | Silver3 이상| 3 |
-| 금 | Bronze1 이상| 3 |
+| Tue | Silver3 이상| 3 |
+| Fri | Bronze1 이상| 3 |
 # 💫 Goal
 ###    - 백준 골드1🥇 티어 이상 달성 
 ###    - IM 테스트 통과
