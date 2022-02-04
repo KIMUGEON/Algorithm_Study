@@ -1,15 +1,16 @@
 # Algorithm_Study
-# 💫 Plan
+## 💫 Plan
 ###    - 매주 화요일/금요일 스터디 진행
 | Day | Level | 문제 수 |
 | -- | -- | -- |
 | Tue | Silver3 이상| 3 |
 | Fri | Bronze1 이상| 3 |
 
-# 💫 Goal
+## 💫 Goal
 ###    - 백준 골드1🥇 티어 이상 달성 
 ###    - IM 테스트 통과
 
+## 💫 Info
 | Name | Tier |
 | -- | -- |
 |KyoungHo| [![Solved.ac Profile](http://mazassumnida.wtf/api/mini/generate_badge?boj=rudgh46)](https://solved.ac/rudgh46)|
