@@ -60,7 +60,6 @@ public class Main_14888_김세진 {
 					dfs(result*arr[cnt],cnt+1);
 				else if(i==3)
 					dfs(result/arr[cnt],cnt+1);
-				
 				operator[i]++;
 			}
 		}
