@@ -1,5 +1,3 @@
-package study_0208;
-
 import java.util.Scanner;
 
 public class Main_14889_김유완 {
