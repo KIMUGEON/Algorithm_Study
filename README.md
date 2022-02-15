@@ -11,7 +11,7 @@
 #####    - IM 테스트 통과
 #  
 ## 💫 Info
-| KyoungHo | SeJin | YoungSeo | UGeon | YuWan | JunWoo |
+| KyoungHo | SeJin | YeongSeo | UGeon | YuWan | JunWoo |
 | -------- | ----- | -------- |------ | ----- | ------ |
 |[![Solved.ac Profile](http://mazassumnida.wtf/api/mini/generate_badge?boj=rudgh46)](https://solved.ac/rudgh46)|[![Solved.ac Profile](http://mazassumnida.wtf/api/mini/generate_badge?boj=kimsezin)](https://solved.ac/kimsezin)|[![Solved.ac Profile](http://mazassumnida.wtf/api/mini/generate_badge?boj=dudtjakdl)](https://solved.ac/dudtjakdl)|[![Solved.ac Profile](http://mazassumnida.wtf/api/mini/generate_badge?boj=dnrjs8185)](https://solved.ac/dnrjs8185)|[![Solved.ac Profile](http://mazassumnida.wtf/api/mini/generate_badge?boj=enkong)](https://solved.ac/enkong)|[![Solved.ac Profile](http://mazassumnida.wtf/api/mini/generate_badge?boj=lastbest)](https://solved.ac/lastbest)|
 #
