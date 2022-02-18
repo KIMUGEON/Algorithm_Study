@@ -3,8 +3,8 @@
 #####    - 매주 화요일/금요일 스터디 진행
 | Day | Level | 문제 수 |
 | -- | -- | -- |
-| Tue | Silver3 이상| 3 |
-| Fri | Bronze1 이상| 3 |
+| Tue | Silver | 3 + @|
+| Fri | Silver~Gold | 3 + @ |
 #
 ## 💫 Goal
 #####    - 백준 골드1🥇 티어 이상 달성 
