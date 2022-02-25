@@ -12,7 +12,7 @@ import java.io.InputStreamReader;
   [출력]
 입력으로 주어진 단어가 몇 개의 크로아티아 알파벳으로 이루어져 있는지 출력한다.
  */
-public class Main_2941 {//크로아티아 알파벳
+public class Main_2941 { //크로아티아 알파벳
 
 	public static void main(String[] args) throws IOException {
 //		===============================  입력   =======================================
