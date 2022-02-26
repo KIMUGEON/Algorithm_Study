@@ -20,7 +20,6 @@ public class B_10158 {
 		int final_x = (P+t)%(2*W);
 		if(final_x > W)
 			final_x = 2*W-final_x;
-		
 		int final_y = (Q+t)%(2*H);
 		if(final_y > H)
 			final_y = 2*H-final_y;
