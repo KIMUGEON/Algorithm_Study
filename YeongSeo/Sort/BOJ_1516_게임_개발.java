@@ -85,10 +85,10 @@ public class BOJ_1516_게임_개발 {
 			
 			List<Integer> outdegree = buildings[no].outdegree; // 현재 건물의 진출 차수 리스트
 			
-			for (int nextNo : outdegree) { // nextNo : 현재 건물 다음에 지어져야하는 건물 번호
-				indegree[nextNo] -= 1; // 다음 건물의 진출 차수 1 감소
+			for (int nextNo : outdegree) { // nextNo : 현재 건물 다음에 지어져야하는(현재 건물과 인접한) 건물 번호
+				indegree[nextNo] -= 1; // 인접 건물의 진출 차수 1 감소
 				
-				// 
+				// 인접 건물을 짓는데 먼저 지어져야 하는 건물의 시간 구하기
 				answer[nextNo] = Math.max(answer[nextNo], answer[no] + buildings[no].time);
 				
 				// 갱신된 건물(노드)의 진입차수가 0이면 queue에 넣기
